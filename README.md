@@ -8,8 +8,8 @@ https://github.com/itc-c21015/Sample.git
 ・お好み焼きレシピ  
 https://github.com/itc-c21015/Sample/blob/master/okonomiyaki.txt
 
-＃＃リモートリポジトリ
-・README.mdを作ってみる
+＃＃リモートリポジトリ  
+・https://github.com/itc-c21015/Sample/blob/master/okonomiyaki.txtを作ってみる
 
 ・マークダウンを覚える
 
